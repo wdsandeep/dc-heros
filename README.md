@@ -1,24 +1,4 @@
-# vue3-tailwind
+This project is build using you tube video - https://www.youtube.com/watch?v=e-E0UB-YDRk
 
-## Project setup
-```
-npm install
-```
+In this app, I have build DC Heros app (Just like simple to do list)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
